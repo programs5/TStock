@@ -1,6 +1,6 @@
 import tinvest
 
-TOKEN = "t.p9teY6ksRakzPRTJTbPfzLBlU0omtco99uyM8KOVYzOrpMVG___MyOyFjQ3328aRoPcz2ThYe3zjGRFJxtOecw"
+TOKEN = ""
 
 
 def greeting():
